@@ -1,0 +1,15 @@
+﻿.yoda {
+  width: 150px;
+  height: 25px;
+  padding: 10px 0 0 0;
+  text-align: center;
+  float: left;
+  background: #d0d0c6;
+  color: #787871;
+  font: 12px Tahoma, sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  -webkit-border-radius:5px;
+  -moz-border-radius:5px;
+  border-radius: 5px;
+}
